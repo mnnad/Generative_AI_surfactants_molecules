@@ -18,7 +18,7 @@ To get started with the repository, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Explore the `src` folder to understand the codebase and algorithms.
-3. Check out the `notebooks` folder for interactive examples and tutorials.
+3. Check out the `notebooks` (RL_implementation) folder for interactive examples and tutorials.
 4. If you're using machine learning models, the `models` folder is where you can save and load trained models.
 5. If you have any datasets or data resources, place them in the `data` folder.
 
