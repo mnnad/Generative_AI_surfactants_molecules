@@ -1,0 +1,9 @@
+Title: Predicting Critical Micelle Concentrations for Surfactants Using Graph Convolutional Neural Networks
+
+Authors: Shiyi Qin, Tianyi Jin, Reid C. Van Lehn, Reid C. Van Lehn, and Victor M. Zavala
+
+Paper Link: https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c05264
+
+Code: https://github.com/zavalab/ML/tree/master/CMC_GCN
+
+Forked on Oct 1 2023 @ 5pm CT time
